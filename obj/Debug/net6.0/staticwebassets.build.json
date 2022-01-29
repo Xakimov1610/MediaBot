@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RO8uhOqkR51VQZvEXftyAEaXgBQr2IcA1NR/LH7i+xQ=",
+  "Source": "media-bot",
+  "BasePath": "_content/media-bot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

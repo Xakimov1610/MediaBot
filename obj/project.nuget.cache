@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwVAcHQGyaRL/zZPcCOe2dStzp9EVCO3A7NRxnOEh4z602rkNfs2iCti8zMVtPIf+h9cFHzFT1up1jUjomewdA==",
+  "success": true,
+  "projectFilePath": "/Users/xakimov/Dev/Csharp/MasterKlass/media-bot/media-bot.csproj",
+  "expectedPackageFiles": [
+    "/Users/xakimov/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/telegram.bot/17.0.0/telegram.bot.17.0.0.nupkg.sha512",
+    "/Users/xakimov/.nuget/packages/telegram.bot.extensions.polling/1.0.2/telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
